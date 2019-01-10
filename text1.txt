@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Hello gt</title>
+    <title>Hello new text Title</title>
 </head>
 <body>
     First git repo

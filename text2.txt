@@ -11,9 +11,5 @@ body {
 }
 
 </body>
-<<<<<<< HEAD
-<a href="#">Link1</a>
-=======
 <a href="#">Link122</a>
->>>>>>> b1
 </html>
